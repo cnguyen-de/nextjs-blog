@@ -6,8 +6,11 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
+import { useRouter } from 'next/router'
 
 const LayoutWrapper = ({ children }) => {
+  const router = useRouter()
+
   return (
     <SectionContainer>
       <div className="flex flex-col justify-between h-screen">
@@ -34,7 +37,11 @@ const LayoutWrapper = ({ children }) => {
                 <Link
                   key={link.title}
                   href={link.href}
-                  className="navbar__link hover:text-blue-500 dark:hover:text-blue-400 p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100"
+                  className={`${
+                    router.pathname === link.href
+                      ? 'text-blue-500 dark:text-blue-400 font-semibold'
+                      : ''
+                  } navbar__link hover:text-blue-500 dark:hover:text-blue-400 p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100`}
                 >
                   {link.title}
                 </Link>

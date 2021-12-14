@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Chi Nguyen
+avatar: /static/images/avatar.webp
+occupation: Consultant & Frontend Architect
+company: Novatec GmbH
+email: c.nguyen.prog@gmail.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+<span className=" text-xl">Hi, I'm Chi. I'm 29 and live in Frankfurt am Main, Germany.</span>
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I currently work as Consultant and specialize in frontend architecture.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I'm always tinkering with something. Some of my side projects include creating websites with
+the latest technologies or smart home automation as well as networking with devices like Raspberry Pi, Unifi.
+
+Other than techonologies, I love reading books and novels. I've also played classical guitar for over 10 years.
+
+You're welcome to contact me using the m
