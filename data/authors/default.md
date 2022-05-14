@@ -6,7 +6,7 @@ company: Novatec GmbH
 email: c.nguyen.prog@gmail.com
 ---
 
-<span className=" text-xl">Hi, I'm Chi. I'm 29 and live in Frankfurt am Main, Germany.</span>
+<span className=" text-xl">Hi, I'm Chi. I'm 30 and live in Frankfurt am Main, Germany.</span>
 
 I currently work as Consultant and specialize in frontend architecture.
 
@@ -15,4 +15,4 @@ the latest technologies or smart home automation as well as networking with devi
 
 Other than techonologies, I love reading books and novels. I've also played classical guitar for over 10 years.
 
-You're welcome to contact me using the m
+You're welcome to contact me using the

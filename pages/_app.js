@@ -13,7 +13,6 @@ const isDevelopment = process.env.NODE_ENV === 'development'
 
 export default function App({ Component, pageProps }) {
   if (pageProps?.homepage) {
-    console.log(true)
     return (
       <ThemeProvider attribute="class">
         <Head>
